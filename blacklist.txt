@@ -146,3 +146,4 @@ shu.y.qq.com
 cfg.imtt.qq.com
 up.inews.qq.com
 cell-hub.servicebus.windows.net
+home.cnv8.tv
