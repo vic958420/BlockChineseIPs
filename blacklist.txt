@@ -1,149 +1,149 @@
-api.haiwaitel.com
-passport.wenxuecity.com
-hbopenbid.pubmatic.com
-bidder.criteo.com
-pubgalaxy-d.openx.net
-adserver.wenxuecity.com
-cdn.wenxuecity.com
-bbs.wenxuecity.com
-blog.wenxuecity.com
-cn.dealam.com
-pixel.wenxuecity.com
-groups.wenxuecity.com
-home.dealsaving.com
-oascentral.wenxuecity.com
-www.cardbenefit.com
-www.dealmoon.com
-www.hsuginseng.com
-planmycollege.com
-www.haiwai.com
-career.wenxuecity.com
-ads.wenxuecity.com
-haiwai-wtb.oss-us-west-1.aliyuncs.com
-api.wenxuecity.com
-engine.wuyou.ca
-cdn.wuyou.ca
-123.51.ca
-app.51.ca
-about.51.ca
-kb.51.ca
-house.51.ca
-www.calgarygasprices.com
-www.ottawagasprices.com
-www.montrealgasprices.com
-bbs.51.ca
-mall.51.ca
-blog.51.ca
-weibo.com
-tps.51.ca
-toronto.china-consulate.org
-tuan.51.ca
-vancouver.china-consulate.org
-www.ccpe.ca
-www.chinaembassycanada.org
-www.vancouvergasprices.com
-www.wenba.ca
-www.winnipeggasprices.com
-help.51.ca
-weixin.51.ca
-news.l.qq.com
-info.3g.qq.com
-op.ssp.qq.com
-gd-stats.jpush.cn
-c.ssp.qq.com
-omgid.qq.com
-lives.l.qq.com
-wise.qq.com
-dp3.qq.com
-videohy.tc.qq.com
-mtrace.qq.com
-android.bugly.qq.com
-news.mpush.qq.com
-restlbs.map.qq.com
-yun-hl.3g.qq.com
-log.tbs.qq.com
-graph.facebook.com
-pms.mb.qq.com
-matchweb.sports.qq.com
-btrace.qq.com
-news.ssp.qq.com
-w.inews.qq.com
-v.gdt.qq.com
-up-hl.3g.qq.com
-wap.mpush.qq.com
-oth.eve.mdt.qq.com
-tools.3g.qq.com
-res.wx.qq.com
-dns.weixin.qq.com
-mazu-wifi.3g.qq.com
-feature.3g.qq.com
-mazu-mmgr.3g.qq.com
-oth.str.mdt.qq.com
-pmir.m.qq.com
-commdata.v.qq.com
-soup.v.qq.com
-sdksp.video.qq.com
-vv.video.qq.com
-mazu.3g.qq.com
-www.qq.com
-android.rqd.qq.com
-bkcommdata.v.qq.com
-pingma.qq.com
-imap-mail.outlook.com
-res.mail.qq.com
-openmsf.3g.qq.com
-szzjwxsns.video.qq.com
-h5vv.video.qq.com
-game.weixin.qq.com
-search.weixin.qq.com
-x.research.qq.com
-pingmid.qq.com
-hklong.weixin.qq.com
-hkshort.weixin.qq.com
-self.events.data.microsoft.com
-www.otaupdatecenter.pro
-astat.bugly.qq.com
-res.imtt.qq.com
-gap.qq.com
-oss.mail.qq.com
-watson.microsoft.com
-pay.weixin.qq.com
-n.ssp.qq.com
-r.inews.qq.com
-vv6.video.qq.com
-rlog.video.qq.com
-api.weixin.qq.com
-mdevstat.qqlive.qq.com
-downloadtpt.qqlive.qq.com
-lbs.map.qq.com
-bkvv.video.qq.com
-masdk.3g.qq.com
-cc.map.qq.com
-rpt.gdt.qq.com
-p.ssp.qq.com
-news-app.api.51.ca
-hkminorshort.weixin.qq.com
-dldir1.qq.com
-incoming.telemetry.mozilla.org
-chromefeedcontentsuggestions-pa.googleapis.com
-support.weixin.qq.com
-mig.str.mdt.qq.com
-softfile.3g.qq.com
-mazuburst-mmgr.3g.qq.com
-mig.eve.mdt.qq.com
-sygic-fcd.servicebus.windows.net
-oth.update.mdt.qq.com
-wnsmusic.qq.com
-wns.y.qq.com
-imgcache.qq.com
-stat.y.qq.com
-ten.sngapm.qq.com
-isure.stream.qqmusic.qq.com
-dl.stream.qqmusic.qq.com
-szu.y.qq.com
-u.y.qq.com
-shu.y.qq.com
-cfg.imtt.qq.com
-up.inews.qq.com
-cell-hub.servicebus.windows.net
-home.cnv8.tv
+0.0.0.0 api.haiwaitel.com
+0.0.0.0 passport.wenxuecity.com
+0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 bidder.criteo.com
+0.0.0.0 pubgalaxy-d.openx.net
+0.0.0.0 adserver.wenxuecity.com
+0.0.0.0 cdn.wenxuecity.com
+0.0.0.0 bbs.wenxuecity.com
+0.0.0.0 blog.wenxuecity.com
+0.0.0.0 cn.dealam.com
+0.0.0.0 pixel.wenxuecity.com
+0.0.0.0 groups.wenxuecity.com
+0.0.0.0 home.dealsaving.com
+0.0.0.0 oascentral.wenxuecity.com
+0.0.0.0 www.cardbenefit.com
+0.0.0.0 www.dealmoon.com
+0.0.0.0 www.hsuginseng.com
+0.0.0.0 planmycollege.com
+0.0.0.0 www.haiwai.com
+0.0.0.0 career.wenxuecity.com
+0.0.0.0 ads.wenxuecity.com
+0.0.0.0 haiwai-wtb.oss-us-west-1.aliyuncs.com
+0.0.0.0 api.wenxuecity.com
+0.0.0.0 engine.wuyou.ca
+0.0.0.0 cdn.wuyou.ca
+0.0.0.0 123.51.ca
+0.0.0.0 app.51.ca
+0.0.0.0 about.51.ca
+0.0.0.0 kb.51.ca
+0.0.0.0 house.51.ca
+0.0.0.0 www.calgarygasprices.com
+0.0.0.0 www.ottawagasprices.com
+0.0.0.0 www.montrealgasprices.com
+0.0.0.0 bbs.51.ca
+0.0.0.0 mall.51.ca
+0.0.0.0 blog.51.ca
+0.0.0.0 weibo.com
+0.0.0.0 tps.51.ca
+0.0.0.0 toronto.china-consulate.org
+0.0.0.0 tuan.51.ca
+0.0.0.0 vancouver.china-consulate.org
+0.0.0.0 www.ccpe.ca
+0.0.0.0 www.chinaembassycanada.org
+0.0.0.0 www.vancouvergasprices.com
+0.0.0.0 www.wenba.ca
+0.0.0.0 www.winnipeggasprices.com
+0.0.0.0 help.51.ca
+0.0.0.0 weixin.51.ca
+0.0.0.0 news.l.qq.com
+0.0.0.0 info.3g.qq.com
+0.0.0.0 op.ssp.qq.com
+0.0.0.0 gd-stats.jpush.cn
+0.0.0.0 c.ssp.qq.com
+0.0.0.0 omgid.qq.com
+0.0.0.0 lives.l.qq.com
+0.0.0.0 wise.qq.com
+0.0.0.0 dp3.qq.com
+0.0.0.0 videohy.tc.qq.com
+0.0.0.0 mtrace.qq.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 news.mpush.qq.com
+0.0.0.0 restlbs.map.qq.com
+0.0.0.0 yun-hl.3g.qq.com
+0.0.0.0 log.tbs.qq.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 pms.mb.qq.com
+0.0.0.0 matchweb.sports.qq.com
+0.0.0.0 btrace.qq.com
+0.0.0.0 news.ssp.qq.com
+0.0.0.0 w.inews.qq.com
+0.0.0.0 v.gdt.qq.com
+0.0.0.0 up-hl.3g.qq.com
+0.0.0.0 wap.mpush.qq.com
+0.0.0.0 oth.eve.mdt.qq.com
+0.0.0.0 tools.3g.qq.com
+0.0.0.0 res.wx.qq.com
+0.0.0.0 dns.weixin.qq.com
+0.0.0.0 mazu-wifi.3g.qq.com
+0.0.0.0 feature.3g.qq.com
+0.0.0.0 mazu-mmgr.3g.qq.com
+0.0.0.0 oth.str.mdt.qq.com
+0.0.0.0 pmir.m.qq.com
+0.0.0.0 commdata.v.qq.com
+0.0.0.0 soup.v.qq.com
+0.0.0.0 sdksp.video.qq.com
+0.0.0.0 vv.video.qq.com
+0.0.0.0 mazu.3g.qq.com
+0.0.0.0 www.qq.com
+0.0.0.0 android.rqd.qq.com
+0.0.0.0 bkcommdata.v.qq.com
+0.0.0.0 pingma.qq.com
+0.0.0.0 imap-mail.outlook.com
+0.0.0.0 res.mail.qq.com
+0.0.0.0 openmsf.3g.qq.com
+0.0.0.0 szzjwxsns.video.qq.com
+0.0.0.0 h5vv.video.qq.com
+0.0.0.0 game.weixin.qq.com
+0.0.0.0 search.weixin.qq.com
+0.0.0.0 x.research.qq.com
+0.0.0.0 pingmid.qq.com
+0.0.0.0 hklong.weixin.qq.com
+0.0.0.0 hkshort.weixin.qq.com
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 www.otaupdatecenter.pro
+0.0.0.0 astat.bugly.qq.com
+0.0.0.0 res.imtt.qq.com
+0.0.0.0 gap.qq.com
+0.0.0.0 oss.mail.qq.com
+0.0.0.0 watson.microsoft.com
+0.0.0.0 pay.weixin.qq.com
+0.0.0.0 n.ssp.qq.com
+0.0.0.0 r.inews.qq.com
+0.0.0.0 vv6.video.qq.com
+0.0.0.0 rlog.video.qq.com
+0.0.0.0 api.weixin.qq.com
+0.0.0.0 mdevstat.qqlive.qq.com
+0.0.0.0 downloadtpt.qqlive.qq.com
+0.0.0.0 lbs.map.qq.com
+0.0.0.0 bkvv.video.qq.com
+0.0.0.0 masdk.3g.qq.com
+0.0.0.0 cc.map.qq.com
+0.0.0.0 rpt.gdt.qq.com
+0.0.0.0 p.ssp.qq.com
+0.0.0.0 news-app.api.51.ca
+0.0.0.0 hkminorshort.weixin.qq.com
+0.0.0.0 dldir1.qq.com
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 chromefeedcontentsuggestions-pa.googleapis.com
+0.0.0.0 support.weixin.qq.com
+0.0.0.0 mig.str.mdt.qq.com
+0.0.0.0 softfile.3g.qq.com
+0.0.0.0 mazuburst-mmgr.3g.qq.com
+0.0.0.0 mig.eve.mdt.qq.com
+0.0.0.0 sygic-fcd.servicebus.windows.net
+0.0.0.0 oth.update.mdt.qq.com
+0.0.0.0 wnsmusic.qq.com
+0.0.0.0 wns.y.qq.com
+0.0.0.0 imgcache.qq.com
+0.0.0.0 stat.y.qq.com
+0.0.0.0 ten.sngapm.qq.com
+0.0.0.0 isure.stream.qqmusic.qq.com
+0.0.0.0 dl.stream.qqmusic.qq.com
+0.0.0.0 szu.y.qq.com
+0.0.0.0 u.y.qq.com
+0.0.0.0 shu.y.qq.com
+0.0.0.0 cfg.imtt.qq.com
+0.0.0.0 up.inews.qq.com
+0.0.0.0 cell-hub.servicebus.windows.net
+0.0.0.0 home.cnv8.tv
