@@ -152,3 +152,7 @@
 0.0.0.0 vtrain.video.qq.com
 0.0.0.0 bksoup.v.qq.com
 0.0.0.0 bksdksp.video.qq.com
+0.0.0.0 mayybkconn.3g.qq.com
+0.0.0.0 mayybstatnew.3g.qq.com
+0.0.0.0 qq.com
+0.0.0.0 appdata.i.cn.nytimes.com
