@@ -148,3 +148,7 @@
 0.0.0.0 cell-hub.servicebus.windows.net
 0.0.0.0 home.cnv8.tv
 0.0.0.0 resolver.msg.xiaomi.net
+0.0.0.0 i.weread.qq.com
+0.0.0.0 vtrain.video.qq.com
+0.0.0.0 bksoup.v.qq.com
+0.0.0.0 bksdksp.video.qq.com
